@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\学习\c++文件\作业1.1\作业4.1\源.cpp(8): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vs2012\vs2012\vc\include\stdio.h(261) : 参见“gets”的声明
+  作业4.1.vcxproj -> G:\学习\C++文件\作业1.1\Debug\作业4.1.exe

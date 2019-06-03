@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\周波\desktop\c++文件\计算日期\计算日期\源.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+c:\users\周波\desktop\c++文件\计算日期\计算日期\源.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+  计算日期.vcxproj -> C:\Users\周波\Desktop\C++文件\计算日期\Debug\计算日期.exe

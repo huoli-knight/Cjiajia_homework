@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\周波\desktop\c++文件\破密输出密码和原文\破密输出密码和原文\源.cpp(9): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(261) : 参见“gets”的声明
+  破密输出密码和原文.vcxproj -> C:\Users\周波\Desktop\C++文件\破密输出密码和原文\Debug\破密输出密码和原文.exe

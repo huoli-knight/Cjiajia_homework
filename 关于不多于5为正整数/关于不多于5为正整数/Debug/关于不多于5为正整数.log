@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\周波\desktop\c++文件\关于不多于5为正整数\关于不多于5为正整数\源.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+c:\users\周波\desktop\c++文件\关于不多于5为正整数\关于不多于5为正整数\源.cpp(5): warning C4101: “c”: 未引用的局部变量
+  关于不多于5为正整数.vcxproj -> C:\Users\周波\Desktop\C++文件\关于不多于5为正整数\Debug\关于不多于5为正整数.exe

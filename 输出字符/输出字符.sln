@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输出字符", "输出字符\输出字符.vcxproj", "{C9D54DC1-E0F4-45C0-8202-E4BE50E00319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D54DC1-E0F4-45C0-8202-E4BE50E00319}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9D54DC1-E0F4-45C0-8202-E4BE50E00319}.Debug|Win32.Build.0 = Debug|Win32
+		{C9D54DC1-E0F4-45C0-8202-E4BE50E00319}.Release|Win32.ActiveCfg = Release|Win32
+		{C9D54DC1-E0F4-45C0-8202-E4BE50E00319}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
